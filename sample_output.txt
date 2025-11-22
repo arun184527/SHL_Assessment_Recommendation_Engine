@@ -1,0 +1,51 @@
+# Sample Execution of SHL Assessment Recommendation Engine
+
+Example Input:
+
+==========================================
+ASSESSMENT RECOMMENDATIONS
+==========================================
+Job Title : Graduate Software Engineer
+Seniority : entry
+Use Case  : hiring_screening
+------------------------------------------
+
+1. SHL Verify G+ (General Ability) (score: 10)
+   Category     : cognitive
+   Best for     : graduates, analyst, engineer, consultant
+   Levels       : entry, mid
+   Use cases    : hiring_screening
+   Duration     : 36 minutes
+   Description  : General ability test measuring problem solving and reasoning across numbers, logic, and patterns.
+
+2. SHL Verify Numerical Reasoning (score: 10)
+   Category     : cognitive
+   Best for     : finance, analyst, engineer, operations
+   Levels       : entry, mid
+   Use cases    : hiring_screening
+   Duration     : 25 minutes
+   Description  : Assesses ability to interpret charts, tables, and perform calculations for job-related decisions.
+
+3. Graduate Situational Judgement Test (SJT) (score: 10)
+   Category     : behavioral
+   Best for     : graduates
+   Levels       : entry
+   Use cases    : hiring_screening
+   Duration     : 25 minutes
+   Description  : Scenario-based test to assess behavioral fit for graduate and early-career roles.
+
+4. SHL Occupational Personality Questionnaire (OPQ32) (score: 8)
+   Category     : personality
+   Best for     : graduates, manager, leader, sales, engineer
+   Levels       : entry, mid, senior, leadership
+   Use cases    : hiring_screening, development, talent_review
+   Duration     : 30 minutes
+   Description  : Personality questionnaire providing insight into work preferences and fit to role requirements.
+
+5. SHL Verify Deductive Reasoning (score: 7)
+   Category     : cognitive
+   Best for     : analyst, consultant, manager
+   Levels       : entry, mid, senior
+   Use cases    : hiring_screening
+   Duration     : 25 minutes
+   Description  : Assesses logical reasoning and ability to draw conclusions from given information.
